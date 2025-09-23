@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"/media/quang/Storage/CODE/Cpp/hello.cpp","tests":[{"id":1753946880534,"input":"{","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/quang/Storage/CODE/Cpp/hello.cpp","group":"local","local":true}
